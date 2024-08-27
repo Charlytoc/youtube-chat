@@ -1,5 +1,4 @@
 import yt_dlp as youtube_dl
-from pydub import AudioSegment
 from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound
 import os
 import re

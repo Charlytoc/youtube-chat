@@ -1,5 +1,7 @@
 # Asistente de Video de YouTube
 
+
+[⭐ VIDEO TUTORIAL](https://www.youtube.com/watch?v=iZSadfcrv4g)
 Este proyecto proporciona un conjunto de herramientas para descargar audio, video y transcripciones de videos de YouTube. Además, puede generar resúmenes y permitir a los usuarios chatear con el contenido del video utilizando varios proveedores de IA.
 
 ## Requisitos Previos

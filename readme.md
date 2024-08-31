@@ -1,5 +1,7 @@
 # YouTube Video Assistant
 
+
+[⭐ VIDEO TUTORIAL](https://www.youtube.com/watch?v=iZSadfcrv4g)
 This project provides a set of tools to download audio, video, and transcriptions from YouTube videos. Additionally, it can generate summaries and allow users to chat with the video content using various AI providers.
 
 ## Prerequisites

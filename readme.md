@@ -13,27 +13,27 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/Charlytoc/youtube-chat.git
-   cd YouTube-Video-Assistant
-   ```
+```bash
+git clone https://github.com/Charlytoc/youtube-chat.git
+cd youtube-chat
+```
 
 2. **Install dependencies**:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
-3. **Set up environment variables**:
-   - Copy the `.env.example` file to `.env`:
-     ```bash
-     cp .env.example .env
-     ```
-   - Add your API keys to the `.env` file:
-     ```
-     OPENAI_API_KEY=your_openai_api_key
-     GROQ_API_KEY=your_groq_api_key
-     ```
+3. **Set up environment variables** (OPTIONAL):
+- Copy the `.env.example` file to `.env`:
+```bash
+cp .env.example .env
+```
+- Add your API keys to the `.env` file:
+```
+OPENAI_API_KEY=your_openai_api_key
+GROQ_API_KEY=your_groq_api_key
+```
 
 ## Usage
 

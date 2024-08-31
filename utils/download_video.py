@@ -39,8 +39,8 @@ def download_audio_and_transcript(video_url, options, output_path='./output'):
         # Sanitize the video title
         sanitized_title = sanitize_title(video_title)
 
-        # Crear la carpeta con el nombre del video
-        video_folder = os.path.join(output_path, sanitized_title)
+        # Crear la carpeta con el ID del video
+        video_folder = os.path.join(output_path, video_id)
         os.makedirs(video_folder, exist_ok=True)
 
         # Descargar el video y/o el audio
